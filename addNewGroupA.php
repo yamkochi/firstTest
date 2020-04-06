@@ -96,7 +96,7 @@ function isGroupExist($uid,$nme,$con)
 	
 	mysqli_close($dbconn);
 
-
+//changed
 
 ?>
 
